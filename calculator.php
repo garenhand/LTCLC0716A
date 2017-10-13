@@ -1,6 +1,6 @@
 <?php
-	class hamtinhtoan
-	{
+class hamtinhtoan
+{
 	public function tinhtong($a,$b)
 	{
 		return $a+$b;
@@ -10,6 +10,7 @@
 	{
 		return $a-$b;
 	}
+
 	public function tinhtich($a,$b)
 	{
 		return $a*$b;
@@ -18,6 +19,5 @@
 	{
 		return $a/$b;
 	}
-	
 }
 ?>
