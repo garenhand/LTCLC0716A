@@ -10,5 +10,9 @@
 	{
 		return $a-$b;
 	}
+	public function tinhtich($c,$d)
+	{
+		
+	}
 }
 ?>
